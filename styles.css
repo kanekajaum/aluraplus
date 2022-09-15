@@ -134,7 +134,6 @@ body{
 .lista__link{
 	margin-right: 1em;
 	color: var(--branco-principal);
-	text-decoration: none;
 }
 
 .lista__link_a{
